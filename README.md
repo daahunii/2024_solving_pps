@@ -11,6 +11,8 @@
 
 - LeetCode
   - A001 (455. Assign Cookies)
+  - A002 (118. Pascal's Triangle)
+  - A003 (66. Plus One)
  
 <hr/>
 
