@@ -25,6 +25,8 @@
   - A013 (136. Single Number)
   - A014 (228. Summary Ranges)
   - A023 (258. Add Digits)
+  - A024 (860. Lemonade Change)
+  - A025 (342. Power of Four)
  
 <hr/>
 
@@ -36,6 +38,7 @@
   - A010 (문자열 압축)
   - A011 (실패율)
   - A016 (구명보트)
+  - A026 (하샤드 수)
  
 <hr/>
 
