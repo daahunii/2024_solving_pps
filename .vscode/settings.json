@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "vector": "cpp",
+        "string": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}

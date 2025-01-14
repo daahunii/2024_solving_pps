@@ -1,6 +1,6 @@
 /*
 Baekjoon
-<5355. 화성 수학지>
+<5355. 화성 수학>
 
 문제
 겨울 방학에 달에 다녀온 상근이는 여름 방학 때는 화성에 갔다 올 예정이다. 
@@ -23,7 +23,7 @@ using namespace std;
 
 int main()
 {
-    double n, t;
+    double n, T;
     string x;
     cin >> T;
     while(T--){
