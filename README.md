@@ -2,7 +2,8 @@
 
 ※ vector와 같은 STL 사용할 때 컴파일 오류 시 : -std=c++11 써서 컴파일(버전 문제)
 
-진행상황 : A035까지 완료
+진행상황 : A041까지 완료
+codeground 생략 : A036
 
 <hr/>
 
@@ -37,6 +38,10 @@
   - A023 (258. Add Digits)
   - A024 (860. Lemonade Change)
   - A025 (342. Power of Four)
+  - A037 (728. Self Dividing Numbers)
+  - A038 (69. Sqrt(x))
+  - A039 (367. Valid Perfect Square)
+  - A040 (1704. Determine if String Halves Are Alike)
  
 <hr/>
 
@@ -50,6 +55,7 @@
   - A016 (구명보트)
   - A026 (하샤드 수)
   - A027 (큰 수 만들기)
+  - A041 (JadenCase 문자열 만들기)
  
 <hr/>
 
