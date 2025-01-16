@@ -43,6 +43,9 @@ codeground 생략 : A036
   - A038 (69. Sqrt(x))
   - A039 (367. Valid Perfect Square)
   - A040 (1704. Determine if String Halves Are Alike)
+  - A042 (844. Backspace String Compare)
+  - A043 (14. Longest Common Prefix)
+  - A044 (551. Student Attendance Record I)
  
 <hr/>
 
