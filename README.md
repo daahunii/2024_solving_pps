@@ -2,9 +2,9 @@
 
 ※ vector와 같은 STL 사용할 때 컴파일 오류 시 : -std=c++11 써서 컴파일(버전 문제)
 
-진행상황 : A055까지 완료
+진행상황 : A060까지 완료
 <br>
-리뷰  : A030까지 완료
+리뷰  : A035까지 완료
 
 <hr/>
 
@@ -56,6 +56,9 @@
   - A043 (14. Longest Common Prefix)
   - A044 (551. Student Attendance Record I)
   - A055 (1021. Remove Outermost Parentheses)
+  - A056 (496. Next Greater Element I)
+  - A058 (206. Reverse Linked List)
+  - A060 (682. Baseball Game)
  
 <hr/>
 
@@ -71,6 +74,8 @@
   - A027 (큰 수 만들기)
   - A041 (JadenCase 문자열 만들기)
   - A054 (크레인 인형뽑기 게임)
+  - A057 (쿠키 구입)
+  - A059 (시험 공부)
  
 <hr/>
 
