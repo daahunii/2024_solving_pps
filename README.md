@@ -35,6 +35,7 @@
   - A051 (5622. 다이얼)
   - A052 (8958. OX퀴즈)
   - A053 (10828. 스택)
+  - A065 (11650. 좌표 정렬하기)
   
 <hr/>
 
@@ -59,6 +60,9 @@
   - A056 (496. Next Greater Element I)
   - A058 (206. Reverse Linked List)
   - A060 (682. Baseball Game)
+  - A061 (168. Excel Sheet Column Title)
+  - A063 (67. Add Binary)
+  - A064 (1051. Height Checker)
  
 <hr/>
 
@@ -76,6 +80,7 @@
   - A054 (크레인 인형뽑기 게임)
   - A057 (쿠키 구입)
   - A059 (시험 공부)
+  - A062 (2016년)
  
 <hr/>
 
