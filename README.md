@@ -2,9 +2,9 @@
 
 ※ vector와 같은 STL 사용할 때 컴파일 오류 시 : -std=c++11 써서 컴파일(버전 문제)
 
-진행상황 : A070까지 완료
+진행상황 : A075까지 완료
 <br>
-리뷰  : A045까지 완료
+리뷰  : A050까지 완료
 
 <hr/>
 
@@ -68,6 +68,10 @@
   - A063 (67. Add Binary)
   - A064 (1051. Height Checker)
   - A067 (1047. Remove All Adjacent Duplicates In String)
+  - A071 (232. Implement Queue using Stacks)
+  - A072 (1154. Day of the Year)
+  - A073 (412. Fizz Buzz)
+  - A074 (125. Valid Palindrome)
  
 <hr/>
 
@@ -84,11 +88,12 @@
   - A041 (JadenCase 문자열 만들기)
   - A054 (크레인 인형뽑기 게임)
   - A057 (쿠키 구입)
-  - A059 (시험 공부)
   - A062 (2016년)
+  - A075 (가장 큰 수)
  
 <hr/>
 
 - codeground
   - A036 (숫자 골라내기)
+  - A059 (시험 공부)
 
